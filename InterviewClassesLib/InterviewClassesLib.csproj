@@ -40,9 +40,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ISelfConcurrentQueue.cs" />
-    <Compile Include="SelfConcurrentQueue.cs" />
+    <Compile Include="Collections\ISelfConcurrentQueue.cs" />
+    <Compile Include="Collections\SelfConcurrentQueue.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SumDigits\DigitsSummator.cs" />
+    <Compile Include="ValuePair.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
