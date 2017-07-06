@@ -43,6 +43,7 @@
     <Compile Include="Collections\ISelfConcurrentQueue.cs" />
     <Compile Include="Collections\SelfConcurrentQueue.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sortings\Sortings.cs" />
     <Compile Include="SumDigits\DigitsSummator.cs" />
     <Compile Include="ValuePair.cs" />
   </ItemGroup>
